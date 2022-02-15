@@ -1,0 +1,19 @@
+02-15-2022 @ 08:09:19 - Creating Instamojo Order for order id: 908
+02-15-2022 @ 08:09:19 - Client ID: IcoUxxxxxxxxxx | Client Secret: yr78xxxxxxxxxx | Testmode:  
+02-15-2022 @ 08:09:21 - Data sent for creating order Array
+(
+    [name] => Shraddha Kulkarni
+    [email] => sk8712893@gmail.com
+    [phone] => 07499749568
+    [amount] => 1550
+    [currency] => INR
+    [redirect_url] => http://localhost/wordpress
+    [transaction_id] => 1644912561-908
+)
+
+02-15-2022 @ 08:09:23 - Validation Exception Occured with response stdClass Object
+(
+    [success] => 
+    [message] => You do not have permission to perform this action.
+)
+
